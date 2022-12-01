@@ -94,11 +94,12 @@
     font-size: 0.75rem;
     text-align: center;
     text-transform: uppercase;
-    padding-bottom: 1rem .5rem;
+    padding-bottom: 1rem 0.5rem;
 }
 
 .skill-name {
     font-size: 0.65rem;
+    font-weight: 0.65rem;
     text-align: left;
     padding-bottom: 0.5rem;
 }
@@ -124,7 +125,7 @@
     text-transform: uppercase;
     font-size: 1.2rem;
     font-weight: 700;
-    padding: .5rem;
+    padding: 0.5rem;
     letter-spacing: 1px;
 }
 
