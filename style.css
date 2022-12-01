@@ -41,7 +41,7 @@
     margin: auto;
     width: 60%;
     height: auto;
-    border: 5px white solid;
+    border: 5px solid white;
     border-radius: 30%;
     box-shadow: 0 0 20px 1px white;
     overflow: hidden;
@@ -99,7 +99,7 @@
 
 .skill-name {
     font-size: 0.65rem;
-    font-weight: 0.65rem;
+    /* font-weight: 0.65rem; */
     text-align: left;
     padding-bottom: 0.5rem;
 }
